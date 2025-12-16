@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Javier Martínez
 
-<!--
-**Javiermartinez2/Javiermartinez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst Jr** con enfoque en análisis exploratorio de datos (EDA), visualización y generación de
+insights de negocio para la toma de decisiones.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías y herramientas
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Visualización: Matplotlib, Seaborn, Plotly
+- Análisis estadístico
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Proyectos destacados
+- 📌 [Análisis de Datos de Ventas](https://github.com/Javiermartinez2/sales-data-analysis)
+
+## 🚀 Objetivo profesional
+Seguir creciendo como **Data Analyst Jr / BI Analyst Jr**, aportando valor a equipos que toman
+decisiones basadas en datos.
+
+📫 Abierto a oportunidades junior en análisis de datos.
