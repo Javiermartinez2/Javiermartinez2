@@ -7,6 +7,7 @@ insights de negocio para la toma de decisiones.
 - Python (Pandas, NumPy)
 - SQL
 - Power BI
+- Tableau
 - Visualización: Matplotlib, Seaborn, Plotly
 - Análisis estadístico
 - Git y GitHub
